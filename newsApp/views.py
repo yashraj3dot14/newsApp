@@ -1,7 +1,7 @@
 from django.shortcuts import render
 import requests
 
-API_KEY = '2e070a04d3da46f08b727ca9df1e6357'
+API_KEY = '#'
 articles = ''
 
 # Create your views here.
